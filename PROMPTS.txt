@@ -1,16 +1,23 @@
-POE
-
+PROMPT 1
 -Senden ingilizce bir web site olusturmanı istiyorum HTML&CSS kullanilacak. görsel teması galaksi olan gri siyah ağırlıklı renklerden oluşan bir site. içeriği ise şu şekilde olacak,başlık olarak 'ASTORONOMY FROM THE PERSPECTIVE OF ARTIFICIAL INTELLIGENCE' olsun ve her burcun isminin oldugu bir govde kısmı olsun bu kısma ben her burc icin 1 görsel ve 1 metin ekleyecegim onun icinde metin ve gorsel ekleyebilecegim kısmı belirt
 ayrica semantik etiketler(header, main, nav, section, article, aside, footer) kullanilsin
 Responsive Tasarım olsun
 
+PROMPT 2
 -vscode da css dosyasini nasıl acacagımı bilemedim <link rel="stylesheet" href="style.css">
 bunun yerine direkt dırekt css kodlarını buraya yapistirabilir miyim
 
+PROMPT 3
 -burc isimleri arasında gecis yapilamiyor duzeltir misin
 
+PROMPT 4
 -12 burc ıle alakalı bilgilendirici birer paragraf yazmanı istiyorum en az 7 cumleden olussun ve tarıh gıbı degerlerı ıcersın
 
 
+POE GORSEL ICIN
+PROMPT 1
+GALAXY WITH STARS
 
-POE'nin gorsel botuna burc isimlerini yazdim ve gonderdigi gorselleri siteye ekledim
+OTHER PROMPTS
+CANCER ZODIAC, AIRES ZODIAC,AQUARIUS ZODIAC...
+
